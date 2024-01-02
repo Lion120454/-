@@ -1,0 +1,100 @@
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\bin\Debug\Агрегатор.exe.config
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\bin\Debug\Агрегатор.exe
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\bin\Debug\Агрегатор.pdb
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\bin\Debug\AngleSharp.dll
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\bin\Debug\System.Buffers.dll
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\bin\Debug\System.Memory.dll
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\obj\Debug\Агрегатор.csproj.AssemblyReference.cache
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\obj\Debug\Агрегатор.exe.config
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\obj\Debug\Агрегатор.Form1.resources
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\obj\Debug\Агрегатор.Properties.Resources.resources
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\obj\Debug\Агрегатор.csproj.GenerateResource.cache
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\obj\Debug\Агрегатор.csproj.CoreCompileInputs.cache
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\obj\Debug\Агрегатор.csproj.CopyComplete
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\obj\Debug\Агрегатор.exe
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\obj\Debug\Агрегатор.pdb
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\bin\Debug\Leaf.xNet.dll
+C:\Users\dimaa\source\repos\Агрегатор\Агрегатор\bin\Debug\WakaTime.Shared.ExtensionUtils.dll
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Агрегатор.exe.config
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Агрегатор.exe
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Агрегатор.pdb
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\AngleSharp.dll
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Leaf.xNet.dll
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Buffers.dll
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Memory.dll
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Numerics.Vectors.dll
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Text.Encoding.CodePages.dll
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\WakaTime.Shared.ExtensionUtils.dll
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.AssemblyReference.cache
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.exe.config
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.Form1.resources
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.Properties.Resources.resources
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.GenerateResource.cache
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.CoreCompileInputs.cache
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.CopyComplete
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.exe
+H:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.pdb
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Агрегатор.exe.config
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Агрегатор.exe
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Агрегатор.pdb
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\AngleSharp.dll
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Leaf.xNet.dll
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Buffers.dll
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Memory.dll
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Numerics.Vectors.dll
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\WakaTime.Shared.ExtensionUtils.dll
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.AssemblyReference.cache
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.exe.config
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.Form1.resources
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.Properties.Resources.resources
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.GenerateResource.cache
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.CoreCompileInputs.cache
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.CopyComplete
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.exe
+E:\Флешка\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.pdb
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Агрегатор.exe.config
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Агрегатор.exe
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Агрегатор.pdb
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\AngleSharp.dll
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Leaf.xNet.dll
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Buffers.dll
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Memory.dll
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Numerics.Vectors.dll
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\WakaTime.Shared.ExtensionUtils.dll
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.AssemblyReference.cache
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.exe.config
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.Form1.resources
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.Properties.Resources.resources
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.GenerateResource.cache
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.CoreCompileInputs.cache
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.CopyComplete
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.exe
+E:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.pdb
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Агрегатор.exe.config
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Агрегатор.exe
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Агрегатор.pdb
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\AngleSharp.dll
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\Leaf.xNet.dll
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Buffers.dll
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Memory.dll
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Numerics.Vectors.dll
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\System.Text.Encoding.CodePages.dll
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\bin\Debug\WakaTime.Shared.ExtensionUtils.dll
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.AssemblyReference.cache
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.exe.config
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.Form1.resources
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.Properties.Resources.resources
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.GenerateResource.cache
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.CoreCompileInputs.cache
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.csproj.CopyComplete
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.exe
+I:\Flashka\УПД\Агрегатор v0.0\Агрегатор\obj\Debug\Агрегатор.pdb

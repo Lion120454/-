@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Flashka\\УПД\\Агрегатор v0.0\\Агрегатор\\Агрегатор.csproj": {}
+  },
+  "projects": {
+    "E:\\Flashka\\УПД\\Агрегатор v0.0\\Агрегатор\\Агрегатор.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Flashka\\УПД\\Агрегатор v0.0\\Агрегатор\\Агрегатор.csproj",
+        "projectName": "Агрегатор",
+        "projectPath": "E:\\Flashka\\УПД\\Агрегатор v0.0\\Агрегатор\\Агрегатор.csproj",
+        "packagesPath": "C:\\Users\\Lion125666\\.nuget\\packages\\",
+        "outputPath": "E:\\Flashka\\УПД\\Агрегатор v0.0\\Агрегатор\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Lion125666\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Anglesharp": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "Leaf.xNet": {
+              "target": "Package",
+              "version": "[5.2.10, )"
+            },
+            "WakaTime.Shared.ExtensionUtils": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
